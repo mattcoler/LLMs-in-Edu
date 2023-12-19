@@ -11,6 +11,8 @@ Welcome to the official repository of the Senior Teaching Qualification (STQ) pr
 - To create a collaborative framework for LLM education, promoting engagement and understanding.
 
 ## Deliverables
+The deliverables below can be found in the project [Wiki](https://github.com/mattcoler/chatGPT/wiki). 
+
 1. **Policy document response**: A critical analysis of the current LLM usage policy with proposed enhancements.
 2. **LLM Integration strategy**: Strategy document outlining the integration of GPT in coursework.
 3. **Assessment protocol**: Mixed-methods framework for evaluating LLM integration effectiveness.
