@@ -1,7 +1,7 @@
 # MSc Voice Technology STQ Project
 
 ## Overview
-Welcome to the official repository of the Senior Teaching Qualification (STQ) project for the MSc Voice Technology program at the University of Groningen. This project focuses on the innovative integration of Large Language Models (LLMs) like ChatGPT into our curriculum, aiming to enhance the educational experience while maintaining academic integrity.
+Welcome to the  repository of the Senior Teaching Qualification (STQ) project for the MSc Voice Technology program at the University of Groningen. This project, "LLMs in Edu" focuses on the innovative integration of Large Language Models (LLMs) like ChatGPT into our curriculum, aiming to enhance the educational experience while maintaining academic integrity.
 
 ## Objectives
 - To critically assess and respond to existing policies on the use of LLMs in academic settings.
