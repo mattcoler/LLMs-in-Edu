@@ -20,11 +20,12 @@ The deliverables below can be found in the project [Wiki](https://github.com/mat
 5. **Collaborative LLM education framework**: A comprehensive guide for integrating LLMs in teaching.
 
 ## Collaboration
-We encourage contributions, feedback, and dialogue from faculty, students, and other stakeholders. To contribute:
+I encourage contributions, feedback, and dialogue from faculty, students, and other stakeholders. To contribute:
 - Fork this repository.
 - Make your changes.
 - Submit a pull request.
 
+If you are a teacher or student at the faculty Campus Fryslân, please participate in [this short survey]([url](https://docs.google.com/forms/d/e/1FAIpQLSfy3cxx3WSdOXpqxqJCvaMAnoKUrENgIMyvH7H73lp8S9WtlA/viewform)). All results will be anonymized. 
 ## Feedback and Issues
 Please use the [Issues](/issues) section to report problems, suggest improvements, or discuss ideas.
 
