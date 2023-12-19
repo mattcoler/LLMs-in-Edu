@@ -25,7 +25,7 @@ I encourage contributions, feedback, and dialogue from faculty, students, and ot
 - Make your changes.
 - Submit a pull request.
 
-If you are a teacher or student at the faculty Campus Fryslân, please participate in [this short survey]([url](https://docs.google.com/forms/d/e/1FAIpQLSfy3cxx3WSdOXpqxqJCvaMAnoKUrENgIMyvH7H73lp8S9WtlA/viewform)). All results will be anonymized. 
+If you are a teacher or student at the faculty Campus Fryslân, please participate in [this short survey](https://docs.google.com/forms/d/e/1FAIpQLSfy3cxx3WSdOXpqxqJCvaMAnoKUrENgIMyvH7H73lp8S9WtlA/viewform). All results will be anonymized. 
 ## Feedback and Issues
 Please use the [Issues](/issues) section to report problems, suggest improvements, or discuss ideas.
 
